@@ -1,16 +1,16 @@
 <h1 align="center">Olá, eu sou o Pedro Henrique Brito 👋</h1>
 
 <p align="center">
-  Desenvolvedor de Softwere, sempre buscando aprender e construir coisas incríveis. 🚀
+  Desenvolvedor de Software, sempre buscando aprender e construir coisas incríveis. 🚀
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 💻 Aluno de Desenvolvimento de Sistemas no SENAI
+- 💻 Aluno de Desenvolvimento de Sistemas no SENAI  
 - 🎯 Atualmente estudando mais sobre back-end com Node.js  
-- 📚 Gosto de estar melhor a cada dia
+- 📚 Gosto de estar melhor a cada dia  
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 🌍 Onde me encontrar
 
-<p align="left">
+<div align="left">
   <a href="https://www.instagram.com/_phbritoo/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/pedrobritocunha/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-</p>
+</div>
 
 ---
 
